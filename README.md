@@ -16,3 +16,5 @@ The library itself is written in kotlin using the partially functional approach 
 
 Probably most relevant for you is the `ignitron` directory as this contains the `ignitron` cli tool.
 Instruction how to build and install can be found there.
+
+> Unless specified otherwise all files are licensed under AGPL.
